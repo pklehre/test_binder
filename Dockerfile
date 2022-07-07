@@ -1,4 +1,4 @@
-FROM pklehre/ocamlec
+FROM pklehre/ocamlec:v2
 
 ARG NB_USER
 ARG NB_UID
