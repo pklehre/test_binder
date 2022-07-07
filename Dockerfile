@@ -1,4 +1,4 @@
-FROM pklehre/ocamlec:sha256:68503ca8f1bf40e12748c5e8e5138ffbbf2ce9b8bb82a2bd3e1434ebeda1c622
+FROM pklehre/ocamlec
 
 
 ARG NB_USER
