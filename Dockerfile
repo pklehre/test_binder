@@ -1,4 +1,4 @@
-FROM pklehre/ocamlec
+FROM pklehre/ocamlec:68503ca8f1bf
 
 
 ARG NB_USER
